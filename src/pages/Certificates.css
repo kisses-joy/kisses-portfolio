@@ -1,0 +1,26 @@
+.certificates_con{
+    padding: 25px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.certificates{
+    display: flex;
+    justify-content: center;
+}
+.certificate{
+    border: 1px solid #bc1970;
+    padding: 25px;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    width: 500px;
+    margin: 10px;
+}
+.certificate img{
+    width: 100%;
+}
+.certificate span{
+    margin-top: 10px;
+    color: #bc1970;
+}
